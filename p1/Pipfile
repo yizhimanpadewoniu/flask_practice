@@ -1,0 +1,22 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[dev-packages]
+
+[packages]
+flask = "*"
+flask-bootstrap = "*"
+flask-sqlalchemy = "*"
+flask-wtf = "*"
+click = "*"
+flask-moment = "*"
+faker = "*"
+wheel = "*"
+clean = "*"
+mysqldb = "*"
+mysql-python = {index = "http://pypi.douban.com/simple",version = "*"}
+
+[requires]
+python_version = "2.7"

@@ -1,0 +1,2 @@
+FLASK_APP=p1_pro
+FLASK_ENV=development
